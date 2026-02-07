@@ -1,0 +1,72 @@
+{
+  "book_id": "modernist-american-epic-narrative-freedom-constraint",
+  "title": "The Weight of a Suit",
+  "tagline": "A man navigates the industrial river of a modern city, bound by duty and steel, in search of a freedom that glimmers just beyond the smudged skyline.",
+  "target_words": 74896,
+  "actual_words": 74896,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Labor and the Human Machine",
+    "The Constricting Geography of Home",
+    "The Illusion of Escape",
+    "The Tension Between Promise and Reality"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Hammered Lead River",
+      "words": 6808
+    },
+    {
+      "ch": 2,
+      "title": "A Damp, Settled Chill",
+      "words": 6808
+    },
+    {
+      "ch": 3,
+      "title": "The Weight of a Suit",
+      "words": 6808
+    },
+    {
+      "ch": 4,
+      "title": "A Brick in the Pocket",
+      "words": 6808
+    },
+    {
+      "ch": 5,
+      "title": "The City's Sodden Coat",
+      "words": 6808
+    },
+    {
+      "ch": 6,
+      "title": "A Tuning Fork for the Ship",
+      "words": 6808
+    },
+    {
+      "ch": 7,
+      "title": "Phantom in the Glass",
+      "words": 6808
+    },
+    {
+      "ch": 8,
+      "title": "Antibodies in a Dark Sedan",
+      "words": 6808
+    },
+    {
+      "ch": 9,
+      "title": "The Cave of Humming Machines",
+      "words": 6808
+    },
+    {
+      "ch": 10,
+      "title": "The Final Ledger",
+      "words": 6808
+    },
+    {
+      "ch": 11,
+      "title": "A Sliver of Cold Iron",
+      "words": 6808
+    }
+  ]
+}
